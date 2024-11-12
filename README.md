@@ -1,4 +1,6 @@
-# keylog.js: An Open Source Pedagogical Tool
+# keylog.js: An Open Source Pedagogical Tool for DH and Data Studies
+
+[![DOI](https://zenodo.org/badge/886702538.svg)](https://doi.org/10.5281/zenodo.14092711)
 
 Keystroke logging, or keylogging, consists of recording the time and
 identity of the keys that a user types on a keyboard. When run without

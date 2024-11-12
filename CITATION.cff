@@ -1,11 +1,14 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+abstract: Educational Site to Demonstrate Local Keylogging with JavaScript
 authors:
-- family-names: "Arnold"
-  given-names: "Taylor"
-  orcid: "https://orcid.org/0000-0003-0576-0669"
-title: "keylog.js: An Open Source Pedagogical Tool"
-version: 1.0.2
-doi: xxx/xxx
-date-released: 2024-11-11
-url: "https://github.com/github-linguist/linguist"
+- family-names: Arnold
+  given-names: Taylor
+  orcid: 0000-0003-0576-0669
+cff-version: 1.2.0
+date-released: '2024-11-12'
+doi: 10.5281/zenodo.14092712
+license:
+- cc-by-4.0
+repository-code: https://github.com/statsmaths/keylog.js/tree/v1.0.2
+title: 'keylog.js: An Open Source Pedagogical Tool'
+type: software
+version: v1.0.2
